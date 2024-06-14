@@ -9,6 +9,7 @@
 
 ## Executing
 1. Instead of basing on events (i.e. Meetup.com), base it on groups of people instead of individuals (i.e. Facebook)
+2. Not everyone needs to have profile to join
 
 ## How it Generates Revenue
 1. Promoting Groups and their Events
