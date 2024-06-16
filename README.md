@@ -2,6 +2,7 @@
 
 ## Target Audience
 1. A general medley of business casual and blue collar/skilled groups
+2. Internet fraternity/sorority related to business casual
 
 ## Audience
 1. Goals and objective(i.e. exchange business cards) set by group representatives
