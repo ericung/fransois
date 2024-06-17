@@ -4,7 +4,7 @@
 1. A general medley of business casual and blue collar/skilled groups
 2. Internet fraternity/sorority related to business casual
 
-## Audience
+## How it Operates
 1. Goals and objective(i.e. exchange business cards) set by group representatives
 - This is hard because the populations naturally don't want to mix
 
@@ -13,4 +13,4 @@
 2. Not everyone needs to have profile to join
 
 ## How it Generates Revenue
-1. Promoting Groups and their Events
+1. Promoting Groups instead of events
